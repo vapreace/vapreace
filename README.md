@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning Python  
 - 📚 I completed my studies at SWitCH(dev) at ISEP, Porto.  
 - 💻 My areas of interest are Software Development, Project Management, and Data Analysis.  
-- 🎵 I have 10+ years of experience in music.  
+- 🎵 I have 10+ years of experience in music education and performance.  
 - 🏊‍♀️ I am a member of a Master Swimming Team.  
   
 <br/>  

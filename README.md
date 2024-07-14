@@ -29,11 +29,20 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/vapreace" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ines-lemos-706296179/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://www.linkedin.com/in/ines-lemos-706296179/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" style="margin-bottom: 5px;">
+  </a>
+    <a href="mailto:ines.sousalemos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.instagram.com/inessousalemos" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://github.com/vapreace" target="_blank">
+    <img src="https://img.shields.io/github/followers/vapreace?label=Follow&style=social" alt="GitHub Follow" style="margin-bottom: 5px;">
+  </a>
+</div>
+
+
+
   

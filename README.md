@@ -29,7 +29,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/ines-lemos-706296179/" target="_blank">
+  <a href="https://www.linkedin.com/in/ines-s-lemos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" style="margin-bottom: 5px;">
   </a>
     <a href="mailto:ines.sousalemos@gmail.com" target="_blank">

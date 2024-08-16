@@ -1,11 +1,10 @@
 ### <div align="center">Hi 👋 I'm Inês</div>  
   
 
-- 🔭 I’m currently learning Python  
-- 📚 I completed my studies at SWitCH(dev) at ISEP, Porto.  
-- 💻 My areas of interest are Software Development, Project Management, and Data Analysis.  
-- 🎵 I have 10+ years of experience in music education and performance.  
-- 🏊‍♀️ I am a member of a Master Swimming Team.  
+- 💻 I’m passionate about Software Development and constantly exploring new technologies to enhance my skills.
+- 🔭 I’m currently expanding my knowledge in Java and Spring Boot. 
+- 📚 I completed my studies at SWitCH(dev) at ISEP, Porto. 
+- 🌟 Balancing life through music, books, and swimming – my passions beyond code.
   
 <br/>  
 
